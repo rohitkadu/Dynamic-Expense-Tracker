@@ -6,7 +6,7 @@ Dynamic real-time Expense Tracker built using ReactJS
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/jEFkLcH)
+![App Screenshot](https://iili.io/HSvYg3u.png)
 
 
 ## Authors
